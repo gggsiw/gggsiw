@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mr. Indian Anonymous
-- 👀 I’m interested in IT field
+- 👋 Hi, I’m E3ror404
+- 👀 I’m interested in cyber security
 - 🌱 I’m currently in school
-- 💞️ I’m looking to collaborate on phishing attack, website attack and more
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on web pentesting and more
+- 📫 How to reach me (there's no way to reach me)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: My parents and friend don't know that I am a Hacker
 
