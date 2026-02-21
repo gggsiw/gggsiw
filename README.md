@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web pentesting and more
 - 📫 How to reach me (there's no way to reach me)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: My parents and friend don't know that I am a Hacker
+
 
 <!---
 gggsiw/gggsiw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
